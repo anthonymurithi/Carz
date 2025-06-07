@@ -1,0 +1,79 @@
+ids,labels,parents
+Zen,Z,
+Modest,Modest <1M,Zen
+Comfort,Comfort 1-5M,Zen
+Premium,Premium >5m,Zen
+Luxury,Luxury,Zen
+Utility,Utility,Zen
+<700cc,<700cc,Modest
+>700cc,>700cc,Modest
+Daihatsu Mira,Daihatsu Mira,<700cc
+Daihatsu Mira,Daihatsu Mira,<700cc
+Daihatsu Mira,Daihatsu Mira,<700cc
+Daihatsu Mira,Daihatsu Mira,<700cc
+SUZUKI Alto GLX,SUZUKI Alto GLX,<700cc
+SUZUKI Alto GLX,SUZUKI Alto GLX,<700cc
+SUZUKI Alto GLX,SUZUKI Alto GLX,<700cc
+SUZUKI Alto GLX,SUZUKI Alto GLX,<700cc
+SUZUKI Wagon R,SUZUKI Wagon R,<700cc
+SUZUKI Wagon R,SUZUKI Wagon R,<700cc
+Daihatsu Move,Daihatsu Move,<700cc
+Mazda Carol,Mazda Carol,<700cc
+Nissan Dayz,Nissan Dayz,<700cc
+Nissan Dayz,Nissan Dayz,<700cc
+Nissan Dayz,Nissan Dayz,<700cc
+Daihatsu Mira,Daihatsu Mira,<700cc
+SUZUKI Alto GLX,SUZUKI Alto GLX,<700cc
+Nissan NV 100 clipper,Nissan NV 100 clipper,<700cc
+SUZUKI Every,SUZUKI Every,<700cc
+Mitsubishi EK wagon,Mitsubishi EK wagon,<700cc
+Honda Wagon,Honda Wagon,<700cc
+Toyota Passo,Toyota Passo,>700cc
+Renault Kwid,Renault Kwid,>700cc
+SUZUKI Wagon R,SUZUKI Wagon R,>700cc
+Starter Comfort,Starter Comfort,Comfort
+High Comfort,High Comfort,Comfort
+Mazda Demio,Mazda Demio,Starter Comfort
+Renault Kwid,Renault Kwid,Starter Comfort
+Toyota Sienta,Toyota Sienta,Starter Comfort
+Toyota Axio,Toyota Axio,Starter Comfort
+Mazda Demio,Mazda Demio,Starter Comfort
+Toyota Vitz,Toyota Vitz,Starter Comfort
+Nissan Note Hybrid,Nissan Note Hybrid,Starter Comfort
+Toyota Fielder,Toyota Fielder,Starter Comfort
+Toyota Harrier,Toyota Harrier,High Comfort
+Subaru forester,Subaru forester,High Comfort
+Volkswagen Tiguan,Volkswagen Tiguan,High Comfort
+Honda CR-V,Honda CR-V,High Comfort
+Audi Q5,Audi Q6,High Comfort
+Nissan X-TRAIL,Nissan X-TRAIL,High Comfort
+Mercedes-Benz CLA 250,Mercedes-Benz CLA 251,High Comfort
+Lexus NX300h Hybrid,Lexus NX300h Hybrid,High Comfort
+Audi A5,Audi A6,High Comfort
+Mercedes-Benz GLC 43 AMG,Mercedes-Benz GLC 43 AMG,Premium
+BMW X5,BMW X6,Premium
+Mercedes-Benz GLC 250,Mercedes-Benz GLC 251,Premium
+Lexus RX 300,Lexus RX 301,Premium
+Toyota Landcruiser prado TX,Toyota Landcruiser prado TX,Premium
+Toyota Crown,Toyota Crown,Premium
+Volvo XC90,Volvo XC91,Premium
+Dodge Charger,Dodge Charger,Premium
+Mercedes-Benz E-Class,Mercedes-Benz E-Class,Premium
+BMW 8 Series,BMW 8 Series,Premium
+Volkswagen Touareg,Volkswagen Touareg,Premium
+PORSCHE Cayenne,PORSCHE Cayenne,Luxury
+Lexus LX 570,Lexus LX 571,Luxury
+Land Rover Discovery,Land Rover Discovery,Luxury
+Ferrari GTC4 Lusso,Ferrari GTC4 Lusso,Luxury
+McLaren 570S Coupe,McLaren 570S Coupe,Luxury
+Bentley Continental Flying Spur,Bentley Continental Flying Spur,Luxury
+Maserati GrandCabrio,Maserati GrandCabrio,Luxury
+Mercedes-Benz G-Class,Mercedes-Benz G-Class,Luxury
+Toyota Probox,Toyota Probox,Utility
+Nissan NV350 Caravan,Nissan NV350 Caravan,Utility
+Nissan NV150 AD,Nissan NV150 AD,Utility
+Suzuki Carry Truck,Suzuki Carry Truck,Utility
+Daihatsu Hijet Truck,Daihatsu Hijet Truck,Utility
+Isuzu Elf Truck,Isuzu Elf Truck,Utility
+Toyota Dyna Root,Toyota Dyna Root,Utility
+Toyota Hilux,Toyota Hilux,Utility
