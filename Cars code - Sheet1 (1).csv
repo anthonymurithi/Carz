@@ -1,18 +1,18 @@
 ids,labels,parents
 Low-price	Low-price	Zen
-Comfort	Comfort	Zen
-Premium	Premium	Zen
-Luxury	Luxury	Zen
-Utility	Utility	Zen
-Below 700cc	Below 700cc	Low-price
-Above 700cc	Above 700cc	Low-price
-Comfort 1	Comfort 1	Comfort
-Comfort 2	Comfort 2	Comfort
-Comfort 3	Comfort 3	Comfort
-Comfort 4	Comfort 4	Comfort
-Comfort 5	Comfort 5	Comfort
-Premium 67	Premium 67	Premium
-Premium 89	Premium 89	Premium
+Comfort,Comfort,Zen
+Premium,Premium,Zen
+Luxury,Luxury,Zen
+Utility,Utility,Zen
+Below 700cc,Below 700cc,Low-price
+Above 700cc,Above 700cc,Low-price
+Comfort 1,Comfort 1,Comfort
+Comfort 2,Comfort 2,Comfort
+Comfort 3,Comfort 3,Comfort
+Comfort 4,Comfort 4,Comfort
+Comfort 5,Comfort 5,Comfort
+Premium 67,Premium 67,Premium
+Premium 89,Premium 89,Premium
 Daihatsu Mira,Daihatsu Mira,<700cc
 Daihatsu Mira,Daihatsu Mira,<700cc
 Daihatsu Mira,Daihatsu Mira,<700cc
