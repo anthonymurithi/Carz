@@ -1,18 +1,19 @@
 ids,labels,parents
 K,WhatsApp<br>＋81 70<br>1261 5795,
-CHINA label,CHINA,K
+Others,Others,K
+CHINA label,CHINA,Others
 AUDI label,AUDI,K
-BRITAIN Other label,BRITAIN Other,K
+BRITAIN Other label,BRITAIN,Others
 BMW label,BMW,K
-GERMANY other label,GERMANY other,K
-USA label,USA,K
-FRANCE label,FRANCE,K
+GERMANY other label,GERMANY,Others
+USA label,USA,Others
+FRANCE label,FRANCE,Others
 DAIHATSU label,DAIHATSU,K
-INDIA label,INDIA,K
-ITALY label,ITALY,K
-JAPAN other label,JAPAN other,K
+INDIA label,INDIA,Others
+ITALY label,ITALY,Others
+JAPAN other label,JAPAN,Others
 HONDA label,HONDA,K
-KOREA label,KOREA,K
+KOREA label,KOREA,Others
 LANDROVER label,LANDROVER,K
 LEXUS label,LEXUS,K
 SUZUKI label,SUZUKI,K
@@ -20,8 +21,8 @@ MAZDA label,MAZDA,K
 MERCEDES label,MERCEDES,K
 MITSUBISHI label,MITSUBISHI,K
 NISSAN label,NISSAN,K
-SWEDEN other label,SWEDEN Other,K
-CZECH label,CZECH,K
+SWEDEN other label,SWEDEN,Others
+CZECH label,CZECH,Others
 SUBARU label,SUBARU,K
 TOYOTA label,TOYOTA,K
 VOLKSWAGEN label,VOLKSWAGEN,K
