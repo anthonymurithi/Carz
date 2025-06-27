@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Plotly Chart Only</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    #myDiv {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="myDiv"></div>
+
+  <script>
+    // Sample Plotly chart (replace this with your actual data)
+    var data = [{
+      type: "sunburst",
+      labels: ["Comfort", "Comfort 1", "Comfort 2", "Comfort 3", "Comfort 4", "Comfort 5"],
+      parents: ["", "Comfort", "Comfort", "Comfort", "Comfort", "Comfort"],
+      values: [100, 20, 20, 20, 20, 20]
+    }];
+
+    var layout = {
+      margin: { l: 0, r: 0, b: 0, t: 0 },
+    };
+
+    Plotly.newPlot('myDiv', data, layout);
+  </script>
+</body>
+</html>
