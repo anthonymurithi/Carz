@@ -1,34 +1,8 @@
-﻿label,parent,value
-Cars,,100
-CHINA,Cars,50
-AUDI,Cars,100
-BRITAIN Other,Cars,50
-BMW,Cars,80
-GERMANY other,Cars,50
-USA,Cars,50
-FRANCE,Cars,50
-DAIHATSU,Cars,100
-INDIA,Cars,50
-ITALY,Cars,50
-JAPAN other,Cars,50
-HONDA,Cars,100
-KOREA,Cars,50
-LANDROVER,Cars,100
-LEXUS,Cars,100
-SUZUKI,Cars,100
-MAZDA,Cars,100
-MERCEDES,Cars,100
-MITSUBISHI,Cars,100
-NISSAN,Cars,100
-SWEDEN,Cars,50
-CZECH,Cars,50
-SUBARU,Cars,100
-TOYOTA,Cars,100
-VOLKSWAGEN,Cars,100
-VOLVO,Cars,100
-Toyota-SUV,TOYOTA,
-Toyota-Sedan,TOYOTA,
-Toyota-Hatchback,TOYOTA,
-MAZDA-SUV,MAZDA,
-MAZDA-SUV,MAZDA,
-MAZDA-SUV,MAZDA,
+label,parent,value
+World,,100
+Asia,World,60
+Europe,World,40
+Japan,Asia,30
+China,Asia,30
+Germany,Europe,25
+France,Europe,15
