@@ -1,0 +1,10 @@
+label,parent,value
+WhatsApp,,100
+Nissan,WhatsApp,30
+Toyota,WhatsApp,30
+Honda,WhatsApp,30
+Mazda,WhatsApp,10
+Note,Nissan,30
+Fielder,Toyota,30
+Vezel,Honda,25
+Fit,Honda,25
